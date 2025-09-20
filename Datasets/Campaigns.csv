@@ -1,0 +1,61 @@
+CampaignID,Name,Channel,StartDate,EndDate,Budget
+1,Summer Campaign 1,Facebook,2021-07-01,2021-07-22,7824.24
+2,New Product Campaign 2,Reddit,2020-05-31,2020-06-19,2552.16
+3,New Product Campaign 3,Google Ads,2021-01-03,2021-02-01,2915.97
+4,New Product Campaign 4,Influencer,2021-08-23,2021-09-20,2662.52
+5,Holiday Campaign 5,Reddit,2023-03-06,2023-03-26,6036.11
+6,Holiday Campaign 6,Google Ads,2022-07-08,2022-08-05,1042.59
+7,Winter Campaign 7,Influencer,2023-01-07,2023-01-27,2323.28
+8,Summer Campaign 8,Reddit,2022-11-12,2022-11-24,9382.79
+9,Winter Campaign 9,Influencer,2022-05-21,2022-05-31,7543.66
+10,Winter Campaign 10,Web Ads,2022-07-31,2022-08-22,9720.21
+11,Summer Campaign 11,Google Ads,2020-07-10,2020-08-08,5347.64
+12,Winter Campaign 12,Web Ads,2020-05-11,2020-06-03,4681.9
+13,Holiday Campaign 13,Influencer,2022-12-02,2022-12-19,1175.76
+14,Holiday Campaign 14,Reddit,2022-07-19,2022-08-10,9195.08
+15,Summer Campaign 15,Web Ads,2021-08-11,2021-08-22,6819.29
+16,Holiday Campaign 16,Facebook,2021-08-19,2021-09-04,4688.8
+17,Summer Campaign 17,Facebook,2022-07-01,2022-07-18,7916.82
+18,Winter Campaign 18,Instagram,2022-02-25,2022-03-02,7145.79
+19,Holiday Campaign 19,Facebook,2020-11-21,2020-12-19,8487.7
+20,Winter Campaign 20,Google Ads,2021-02-23,2021-03-23,1419.79
+21,Holiday Campaign 21,Web Ads,2021-09-15,2021-09-27,7990.41
+22,Holiday Campaign 22,Influencer,2022-04-23,2022-05-14,7345.44
+23,Summer Campaign 23,Instagram,2022-05-23,2022-06-10,1329.26
+24,Winter Campaign 24,Web Ads,2021-06-28,2021-07-28,9675.12
+25,Summer Campaign 25,Reddit,2021-10-11,2021-11-01,5541.46
+26,Summer Campaign 26,Influencer,2022-04-05,2022-04-29,7257.2
+27,Holiday Campaign 27,Influencer,2022-12-04,2022-12-22,3740.22
+28,Holiday Campaign 28,Influencer,2020-11-18,2020-12-07,2584.02
+29,New Product Campaign 29,Facebook,2020-06-12,2020-06-30,8671.8
+30,New Product Campaign 30,Influencer,2022-06-27,2022-07-27,8771.34
+31,New Product Campaign 31,Google Ads,2020-05-04,2020-06-03,3849.96
+32,Holiday Campaign 32,Google Ads,2020-11-24,2020-12-03,4556.51
+33,New Product Campaign 33,Facebook,2021-06-22,2021-07-18,7960.73
+34,Summer Campaign 34,Web Ads,2020-09-25,2020-10-16,1926.67
+35,New Product Campaign 35,Google Ads,2020-04-26,2020-05-19,5289.66
+36,Winter Campaign 36,Facebook,2021-06-19,2021-07-05,2744.48
+37,Summer Campaign 37,Instagram,2020-08-12,2020-08-27,1549.09
+38,Summer Campaign 38,Google Ads,2021-10-27,2021-11-14,6503.11
+39,Winter Campaign 39,Instagram,2020-07-02,2020-07-14,2125.07
+40,Holiday Campaign 40,Influencer,2022-03-27,2022-04-24,9568.32
+41,New Product Campaign 41,Instagram,2021-07-15,2021-07-28,9577.27
+42,Holiday Campaign 42,Instagram,2022-09-18,2022-10-04,3173.7
+43,Winter Campaign 43,Google Ads,2021-04-16,2021-05-10,7781.37
+44,Winter Campaign 44,Influencer,2020-09-29,2020-10-12,4429.88
+45,Winter Campaign 45,Google Ads,2021-12-22,2022-01-06,5634.46
+46,Summer Campaign 46,Reddit,2021-11-10,2021-11-19,5184.86
+47,Holiday Campaign 47,Reddit,2020-04-22,2020-05-20,2099.54
+48,Summer Campaign 48,Google Ads,2022-06-22,2022-07-07,7840.51
+49,Winter Campaign 49,Facebook,2023-02-07,2023-03-02,7481.1
+50,Summer Campaign 50,Google Ads,2020-10-02,2020-10-18,7509.97
+51,Holiday Campaign 51,Web Ads,2022-01-26,2022-02-24,9376.33
+52,Summer Campaign 52,Google Ads,2023-02-22,2023-03-05,4910.28
+53,New Product Campaign 53,Instagram,2020-09-25,2020-10-06,2345.04
+54,Holiday Campaign 54,Instagram,2020-08-12,2020-08-28,7959.98
+55,Summer Campaign 55,Google Ads,2021-09-16,2021-10-15,2258.32
+56,Summer Campaign 56,Google Ads,2022-12-13,2023-01-12,7067.52
+57,New Product Campaign 57,Web Ads,2021-10-22,2021-11-01,2871.08
+58,Summer Campaign 58,Instagram,2022-12-05,2022-12-11,7457.15
+59,Winter Campaign 59,Facebook,2021-11-16,2021-12-15,5888.96
+60,New Product Campaign 60,Instagram,2022-02-08,2022-03-03,6894.82
